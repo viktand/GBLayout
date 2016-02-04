@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="abstr">abstr.png</file>
+        <file alias="jbutton">JButton.png</file>
+        <file alias="jcheckbox">JCheckbox.png</file>
+        <file alias="button">JButton1.png</file>
+        <file alias="checkbox">JCheckbox1.png</file>
+        <file alias="label">JLabel1.png</file>
+        <file alias="textfield">JTextfield.png</file>
+        <file alias="textarea">JTextarea.png</file>
+        <file alias="combobox">Jcombobox1.png</file>
+        <file alias="resizer">resizer.png</file>
+    </qresource>
+</RCC>
